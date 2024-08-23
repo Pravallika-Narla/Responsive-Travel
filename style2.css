@@ -14,7 +14,7 @@ body{
     color: var(--primary);
 }
 #main{
-    background-image: url("img/main.png");
+    background-image: url("./img/main.png");
     min-height: 100vh;
     background-position: bottom center;
     background-size: cover;
